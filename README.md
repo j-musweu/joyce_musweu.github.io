@@ -18,24 +18,22 @@ Specialization: Market Research, Statistics and Project Management
 
 ## SKILLS
 **Languages:** Fluent in English (native).
-
 **Technical Skills:** MySQL, Python, R, Power Bi, Tableau, Microsoft Office (Excel, Word, PowerPoint, Project, Azure), Jira. 
-
 **Competencies:** Data Mining, Data Cleaning, Data Visualization, Natural Language Processing, Relational Statistical Tests, Machine Learning, ETL Development, Project Management, Stakeholder Management, Process Improvement, and Financial Tracking.
 
 
 ## WORK EXPERIENCE
 ### Operations and Marketing Officer   | Impulse Biomedical (Pty) Ltd
-Managed comprehensive analysis of daily company procurements as the  operations department to support data-driven decision-making lead to the increase of 60% operational efficiency. Led marketing research, and redevelopment of social media marketing strategy.
--	Drove maintenance, accuracy, transparency, compliance, and risk management of company financial tracking system using lean management therefore reducing lead time in audit process by  40%  and augmenting a convenient data organization system. 
--	Optimized project risk management through cost control, assessing data processing efficiency,  and mitigating project risks through process improvement resulting in 50% increase in cost savings. 
--	Managed internal and external communications with stakeholders through strategic management and situational leadership. 
--	Collaborated with cross-functional teams to conduct patient interviews, trials, and data collection to draft a report on findings for product development of medical devices. This resulted in the 45% increase patient engagement and satisfaction
+Managed comprehensive analysis of daily company procurements as the  operations department to support data-driven decision-making lead to the **increase of 60% operational efficiency**. Led **marketing research**, and redevelopment of social media marketing strategy.
+-	Drove maintenance, accuracy, transparency, compliance, and risk management of company financial tracking system using **lean management** therefore reducing lead time in audit process by  40%  and augmenting a convenient data organization system. 
+-	**Optimized project risk management** through cost control, assessing data processing efficiency,  and mitigating project risks through process improvement resulting in 50% increase in cost savings. 
+-	Managed internal and external communications with stakeholders through **strategic management** and **situational leadership**. 
+-	Collaborated with **cross-functional teams** to conduct patient interviews, trials, and **data collection** to draft a report on findings for product development of medical devices. This resulted in the 45% increase client engagements and satisfaction
 
 ### Administrative Officer             | Impulse Biomedical (Pty) Ltd
 Recorded and managed company procurements, documentation preparation for audits, and controlled information flow.
--	Spearheaded restructure of financial tracking system by migrating financial documentation onto SharePoint and data records on Excel in local database for storage and future access to improve accuracy and process time for audit preparation efficiency by 60%.
--	Conducted in-depth market research on the medical device industry, identifying key trends, competitors, and distribution channels to optimize marketing budget by $100K thus achieving brand awareness and resulting in 40% improved market presence.
+-	Spearheaded **restructure of financial tracking system** by migrating financial documentation onto SharePoint and data records on Excel in local database for storage and future access to improve accuracy and process time for audit preparation efficiency by 60%.
+-	Conducted **in-depth market research** on the medical device industry, **identifying key trends, competitors, and distribution channels** to optimize marketing budget by **$100K** thus achieving brand awareness and resulting in 40% improved market presence.
 
 ### Head Tutor for Project Managemnet  | University of Cape Town
 Liaised with management and lecturers in the Project Management Department to manage and supervise 10 tutors and a total of
