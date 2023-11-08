@@ -49,6 +49,13 @@ and assessment process resulting in 70% satisfaction rate above average from pre
 -	Analyzed 115,000 sales and marketing funnel records by extracting data via SQL to Python for Natural Language Processing(NLP) on reviews, implementing machine learning clustering for customer segmentation, and visualizing client behaviors using Tableau.
 
 
+## SKILLS
+**Languages:** Fluent in English (native).
+**Technical Skills:** MySQL, Python, R, Power Bi, Tableau, Microsoft Office (Excel, Word, PowerPoint, Project, Azure), Jira. 
+**Competencies:** Data Mining, Data Cleaning, Data Visualization, Natural Language Processing, Relational Statistical Tests, Machine Learning, ETL Development, Project Management, Stakeholder Management, Process Improvement, and Financial Tracking.
+
+
+
 
 
 
