@@ -34,12 +34,12 @@ Recorded and managed company procurements, documentation preparation for audits,
 ### Head Tutor for Project Managemnet  | University of Cape Town
 Liaised with management and lecturers in the Project Management Department to manage and supervise 10 tutors and a total of
 27 student groups to meet deadlines for completion of assessments, evaluations, and improved feedback cycle.
--  I'd entified steps to reduce feedback time between 240 students and the professor through agile meetings and improving evaluation
+-  I Identified steps to reduce feedback time between 240 students and the professor through agile meetings and improving evaluation
 and assessment process resulting in 70% satisfaction rate above average from previous year.
 
 
 ## PROJECTS
-### Walmart: Predicting and Forecasting Business Insight Report. | SQL, R, Word, PowerPoint	June 2023
+### Walmart: Predicting and Forecasting Business Insight Report.           | SQL, R, Word, PowerPoint	June 2023
 -	Performed time series analysis on 28 million sales data of stores across USA by exploring data, building predictive and forecasting models  through Gini decision tree and Regression models followed by ARIMA and ARMA models to aid informed decisions regarding product category expansion, store size, and improved online services.
 
 ### Development of Market Regime Assessment Tool through Machine Learning  | Python, PowerPoint	June 2023
