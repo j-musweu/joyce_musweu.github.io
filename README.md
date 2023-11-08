@@ -51,7 +51,9 @@ and assessment process resulting in 70% satisfaction rate above average from pre
 
 ## SKILLS
 **Languages:** Fluent in English (native).
+
 **Technical Skills:** MySQL, Python, R, Power Bi, Tableau, Microsoft Office (Excel, Word, PowerPoint, Project, Azure), Jira. 
+
 **Competencies:** Data Mining, Data Cleaning, Data Visualization, Natural Language Processing, Relational Statistical Tests, Machine Learning, ETL Development, Project Management, Stakeholder Management, Process Improvement, and Financial Tracking.
 
 
