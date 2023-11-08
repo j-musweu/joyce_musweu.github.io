@@ -43,13 +43,16 @@ and assessment process resulting in 70% satisfaction rate above average from pre
 
 
 ## PROJECTS
-### Walmart: Predicting and Forecasting Business Insight Report.           | SQL, R, Word, PowerPoint	June 2023
+### Walmart: Predicting and Forecasting Business Insight Report.      
+**Skills used:** SQL, R, Word, PowerPoint	
 -	Performed time series analysis on 28 million sales data of stores across USA by exploring data, building predictive and forecasting models  through Gini decision tree and Regression models followed by ARIMA and ARMA models to aid informed decisions regarding product category expansion, store size, and improved online services.
 
-### Development of Market Regime Assessment Tool through Machine Learning  | Python, PowerPoint	June 2023
+### Development of Market Regime Assessment Tool through Machine Learning  
+**Skills used:** Python, PowerPoint	
 -	Conducted financial market regime analysis on historic pricing data of traded assets through building a two state Hidden Markov Model to track market changes and an algorithmic portfolio diversification engine to assist in optimization  of investment portfolio.
 
-### Olist: Funnel Management for Sustaining Growth Rate Beyond the Pandemic. | SQL, Python, Tableau, PowerPoint 	 May 2023
+### Olist: Funnel Management for Sustaining Growth Rate Beyond the Pandemic. 
+**Skills used:** SQL, Python, Tableau, PowerPoint 	 
 -	Analyzed 115,000 sales and marketing funnel records by extracting data via SQL to Python for Natural Language Processing(NLP) on reviews, implementing machine learning clustering for customer segmentation, and visualizing client behaviors using Tableau.
 
 
