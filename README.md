@@ -8,16 +8,16 @@ With a strong foundation in Business Research, Market Research, Corporate Commun
 ## EDUCATION
 ### Masters of Science in Business Analytics    
 **Hult Internation Business School |** September 2022 - August 2023
-Relevant Course: Forecasting and Predicting Data for Future, Artificial Intelligence for Investment Management, Business Optimization
+- Relevant Course: Forecasting and Predicting Data for Future, Artificial Intelligence for Investment Management, Business Optimization
 
 ### Postgraduate Diploma in Management Studies  
 **University of Cape Town  |** : January 2020 - December  2020
-Specialization: Business Research and Corporate Communication
+- Specialization: Business Research and Corporate Communication
 
 
 ### Bachlers of Commerce in Management Studies  
 **University of Cape Town  |** : January 2016 - December  2019
-Specialization: Market Research, Statistics and Project Management
+- Specialization: Market Research, Statistics and Project Management
 
 ## SKILLS
 **Languages:** Fluent in English (native).
