@@ -8,7 +8,7 @@ With a strong foundation in Business Research, Market Research, Corporate Commun
 
 ## EDUCATION
 ### Masters of Science in Business Analytics    | Hult Internation Business School
-Relevant Course:
+Relevant Course: Forecasting and Predicting Data for Future, Artificial Intelligence for Investment Management, Business Optimization
 
 ### Postgraduate Diploma in Management Studies  | University of Cape Town
 Specialization: Business Research and Corporate Communication
