@@ -21,14 +21,17 @@ With a strong foundation in Business Research, Market Research, Corporate Commun
 
 ## SKILLS
 **Languages:** Fluent in English (native).
+
 **Technical Skills:** MySQL, Python, R, Power Bi, Tableau, Microsoft Office (Excel, Word, PowerPoint, Project, Azure), Jira. 
+
 **Competencies:** Data Mining, Data Cleaning, Data Visualization, Natural Language Processing, Relational Statistical Tests, Machine Learning, ETL Development, Project Management, Stakeholder Management, Process Improvement, and Financial Tracking.
 
 
 ## WORK EXPERIENCE
 ### Operations and Marketing Officer   
 **Impulse Biomedical (Pty) Ltd:** January 2021 – March 2022
-- Managed comprehensive analysis of daily company procurements as the  operations department to support data-driven decision-making lead to the increase of 60% operational efficiency. Led marketing research, and redevelopment of social media marketing strategy.
+
+Managed comprehensive analysis of daily company procurements as the  operations department to support data-driven decision-making lead to the increase of 60% operational efficiency. Led marketing research, and redevelopment of social media marketing strategy.
 -	Drove maintenance, accuracy, transparency, compliance, and risk management of company financial tracking system using lean management therefore reducing lead time in audit process by  40%  and augmenting a convenient data organization system. 
 -	Optimized project risk management through cost control, assessing data processing efficiency,  and mitigating project risks through process improvement resulting in 50% increase in cost savings. 
 -	Managed internal and external communications with stakeholders through strategic management and situational leadership. 
@@ -36,13 +39,15 @@ With a strong foundation in Business Research, Market Research, Corporate Commun
 
 ### Administrative Officer             
 **Impulse Biomedical (Pty) Ltd:** September 2020 – December 2020
-- Recorded and managed company procurements, documentation preparation for audits, and controlled information flow.
+
+Recorded and managed company procurements, documentation preparation for audits, and controlled information flow.
 -	Spearheaded restructure of financial tracking system by migrating financial documentation onto SharePoint and data records on Excel in local database for storage and future access to improve accuracy and process time for audit preparation efficiency by 60%.
 -	Conducted in-depth market research on the medical device industry, identifying key trends, competitors, and distribution channels to optimize marketing budget by $100K thus achieving brand awareness and resulting in 40% improved market presence.
 
 ### Head Tutor for Project Managemnet  
 **University of Cape Town** : June 2020 - December  2020
-- Liaised with management and lecturers in the Project Management Department to manage and supervise 10 tutors and a total of
+
+Liaised with management and lecturers in the Project Management Department to manage and supervise 10 tutors and a total of
 27 student groups to meet deadlines for completion of assessments, evaluations, and improved feedback cycle.
 -  I Identified steps to reduce feedback time between 240 students and the professor through agile meetings and improving evaluation
 and assessment process resulting in 70% satisfaction rate above average from previous year.
