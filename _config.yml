@@ -6,3 +6,5 @@ logo: /Assets/Profile_Picture_2.png
 #show_downloads: false
 theme: jekyll-theme-minimal
  
+github:
+  is_project_page: false
