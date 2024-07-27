@@ -13,12 +13,12 @@ I possess a robust foundation in Business Research, Market Research, Corporate C
 - Relevant Course: Forecasting and Predicting Data for Future, Artificial Intelligence for Investment Management, Business Optimization
 
 ### Postgraduate Diploma in Management Studies  
-**University of Cape Town  |** : January 2020 - December  2020
+**University of Cape Town  |** January 2020 - December  2020
 - Specialization: Business Research and Corporate Communication
 
 
 ### Bachlers of Commerce in Management Studies  
-**University of Cape Town  |** : January 2016 - December  2019
+**University of Cape Town  |** January 2016 - December  2019
 - Specialization: Market Research, Statistics and Project Management
 
 ## SKILLS
