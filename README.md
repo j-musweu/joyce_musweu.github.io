@@ -1,8 +1,10 @@
 # Data Scientist
 
-As a dedicated analyst, I thrive on transforming raw data into actionable insights. I am a driven and adaptable professional, experienced as an Operations and Marketing Officer, with a fervent ambition to evolve in the Data Science field. In August 2023 I gained my Master’s of Science in Business Analytics in which I focused on Forecasting and Predicting the Future Using Data, Social Media Analytics For Business Intelligence, Business Modelling & Optimization, Artificial Intelligence for Investment Management and Behavioral Economics & Decision Making. 
+As a dedicated analyst, I excel in transforming raw data into actionable insights. With a fervent ambition to evolve in the Data Science field, I am a driven and adaptable professional, experienced as a Business Analyst Intern and Executive Assistant. In 2023, I earned my Master of Science in Business Analytics, focusing on Forecasting and Predicting, Social Media Analytics, Business Modelling & Optimization, Artificial Intelligence for Investment Management, and Behavioral Economics & Decision Making.
 
-With a strong foundation in Business Research, Market Research, Corporate Communication, Project Management, Stakeholder Management and Process Improvement, I have proven track record of helping organizations make informed decisions and drive business growth. My passion for leveraging the power of data is to drive change through uncovering trends, optimizing processes, and solving complex problems alongside continuously adapting to finding creative ways to transform data into insights.
+I possess a robust foundation in Business Research, Market Research, Corporate Communication, Project Management, Stakeholder Management, and Process Improvement. My proven track record includes enhancing operational efficiency, optimizing workflows, and driving business growth through data-driven decision-making. I am passionate about leveraging data to uncover trends, solve complex problems, and continuously find creative ways to transform data into valuable insights, ultimately driving positive change within organizations.
+
+
 
 
 ## EDUCATION
@@ -22,12 +24,33 @@ With a strong foundation in Business Research, Market Research, Corporate Commun
 ## SKILLS
 **Languages:** Fluent in English (native).
 
-**Technical Skills:** MySQL, Python, R, Power Bi, Tableau, Microsoft Office (Excel, Word, PowerPoint, Project, Azure), Jira. 
+**Technical Skills:** MySQL, Python, R, Power Bi, Tableau, Microsoft Office (Excel, Word, PowerPoint, Project, Azure), Jira(Scrum Master). 
 
-**Competencies:** Data Mining, Data Cleaning, Data Visualization, Natural Language Processing, Relational Statistical Tests, Machine Learning, ETL Development, Project Management, Stakeholder Management, Process Improvement, and Financial Tracking.
+**Competencies:**  Data Mining; Data Cleaning; Data Modelling; Data Visualization; Relational Statistical Tests; Machine Learning; ETL Development; Financial Analysis; Financial Tracking, Risk Management; Project Management; Requirement Analysis. Business Optimization, Market Research.
 
 
 ## WORK EXPERIENCE
+
+### Business Analyst Intern
+**APTECH STAFFING	Remote:** March 2023 – Present
+
+-	Developed and reviewed surveys for data collection from company stakeholders on how to strengthen relationships with key stakeholders and presenting to executive management.
+-	Performed market research to undercover insights on significant trends to recommend process optimization strategies and improve streamlining of the internal process.
+-	Created User Interface Documents for development and testing teams, justifying well-defined system requirements.
+-	Led user testing initiatives and maintained quality assurance procedures, reducing post-release defects by 25%.
+-	Improved the error reporting process to support with new data requirements, enhancing response times by 30%.
+-	Facilitated cross-functional team communication, ensuring project alignment and increasing project completion rates by 15%.
+ 
+### Executive Assistant
+**NEWTON COMMUNITY EDUCATION:**	November 2023 – Present
+
+Supported Program Coordinators, Operations Team, Associate Director of Administration and Finance, and Executive Director.
+- Streamlined operation tasks, optimized workflows, and managed stakeholder expectations through cross-functional communication, business process modeling and needs analysis .
+- Liaised between the IT and business stakeholders for data integration related issues with CRM software (Xenegrade).
+- Developed instructional documentation for Xenegrade, to efficiently navigate procedures, solve business challenges and improve efficiency.
+- Enhanced client retention by 25% through stakeholder engagement analysis, corporate communication and issue resolution.
+- Managed the customer service, payroll, and logistics check through data governance, process optimization, and cross-functional coordination.
+
 ### Operations and Marketing Officer   
 **Impulse Biomedical (Pty) Ltd:** January 2021 – March 2022
 
@@ -55,12 +78,21 @@ and assessment process resulting in 70% satisfaction rate above average from pre
 
 ## PROJECTS
 ### Walmart: Predicting and Forecasting Business Insight Report.      
-**Skills used:** SQL, R, Word, PowerPoint	
--	Performed time series analysis on 28 million sales data of stores across USA by exploring data, building predictive and forecasting models  through Gini decision tree and Regression models followed by ARIMA and ARMA models to aid informed decisions regarding product category expansion, store size, and improved online services.
+**Skills used:** SQL, R, Word, PowerPoint
+
+-	Explored and analyzed data of 28 million sales records from stores across the USA through time series analysis to identify trends and patterns.
+-	Built and validated predictive and forecasting models using Gini decision trees, regression models, ARIMA and ARMA models to inform strategic decisions regarding product category expansion, store size optimization, and enhancement of online services.
+-	Utilized SQL for data extraction and manipulation, and R for data analysis and model development. Delivered insights and recommendations through reports and presentations to aid data-driven decision-making among stakeholders.
+
 
 ### Development of Market Regime Assessment Tool through Machine Learning  
 **Skills used:** Python, PowerPoint	
--	Conducted financial market regime analysis on historic pricing data of traded assets through building a two state Hidden Markov Model to track market changes and an algorithmic portfolio diversification engine to assist in optimization  of investment portfolio.
+-	Conducted comprehensive financial market regime analysis on historical pricing data of traded assets. 
+-	Developed a two-state Hidden Markov Model to accurately track, predict market changes and identify distinct market regimes.
+- Built an algorithmic portfolio diversification engine to optimize investment portfolios. 
+-	Used Python for data analysis, model development, and implementation.
+- Presented findings and insights through PowerPoint, providing stakeholders with actionable insights for optimizing investment strategies.
+
 
 ### Olist: Funnel Management for Sustaining Growth Rate Beyond the Pandemic. 
 **Skills used:** SQL, Python, Tableau, PowerPoint 	 
